@@ -1,0 +1,174 @@
+{
+  "chains": [
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "chain_id": 1,
+      "decimals": 18,
+      "rpc_env": "RPC_ETHEREUM",
+      "coingecko_id": "ethereum",
+      "enabled": true
+    },
+    {
+      "id": "bsc",
+      "name": "BNB Smart Chain",
+      "symbol": "BNB",
+      "chain_id": 56,
+      "decimals": 18,
+      "rpc_env": "RPC_BSC",
+      "coingecko_id": "binancecoin",
+      "enabled": true
+    },
+    {
+      "id": "polygon",
+      "name": "Polygon",
+      "symbol": "POL",
+      "chain_id": 137,
+      "decimals": 18,
+      "rpc_env": "RPC_POLYGON",
+      "coingecko_id": "polygon-ecosystem-token",
+      "enabled": true
+    },
+    {
+      "id": "arbitrum",
+      "name": "Arbitrum One",
+      "symbol": "ETH",
+      "chain_id": 42161,
+      "decimals": 18,
+      "rpc_env": "RPC_ARBITRUM",
+      "coingecko_id": "ethereum",
+      "enabled": true
+    },
+    {
+      "id": "optimism",
+      "name": "Optimism",
+      "symbol": "ETH",
+      "chain_id": 10,
+      "decimals": 18,
+      "rpc_env": "RPC_OPTIMISM",
+      "coingecko_id": "ethereum",
+      "enabled": true
+    },
+    {
+      "id": "base",
+      "name": "Base",
+      "symbol": "ETH",
+      "chain_id": 8453,
+      "decimals": 18,
+      "rpc_env": "RPC_BASE",
+      "coingecko_id": "ethereum",
+      "enabled": true
+    },
+    {
+      "id": "avalanche",
+      "name": "Avalanche C-Chain",
+      "symbol": "AVAX",
+      "chain_id": 43114,
+      "decimals": 18,
+      "rpc_env": "RPC_AVALANCHE",
+      "coingecko_id": "avalanche-2",
+      "enabled": true
+    },
+    {
+      "id": "fantom",
+      "name": "Fantom",
+      "symbol": "FTM",
+      "chain_id": 250,
+      "decimals": 18,
+      "rpc_env": "RPC_FANTOM",
+      "coingecko_id": "fantom",
+      "enabled": true
+    },
+    {
+      "id": "polygon_zkevm",
+      "name": "Polygon zkEVM",
+      "symbol": "ETH",
+      "chain_id": 1101,
+      "decimals": 18,
+      "rpc_env": "RPC_POLYGON_ZKEVM",
+      "coingecko_id": "ethereum",
+      "enabled": true
+    },
+    {
+      "id": "morph",
+      "name": "Morph",
+      "symbol": "ETH",
+      "chain_id": 2818,
+      "decimals": 18,
+      "rpc_env": "RPC_MORPH",
+      "coingecko_id": "ethereum",
+      "enabled": true
+    },
+    {
+      "id": "vana",
+      "name": "Vana",
+      "symbol": "VANA",
+      "chain_id": 1480,
+      "decimals": 18,
+      "rpc_env": "RPC_VANA",
+      "coingecko_id": "vana",
+      "enabled": true
+    },
+    {
+      "id": "zksync",
+      "name": "zkSync Era",
+      "symbol": "ETH",
+      "chain_id": 324,
+      "decimals": 18,
+      "rpc_env": "RPC_ZKSYNC",
+      "coingecko_id": "ethereum",
+      "enabled": false
+    },
+    {
+      "id": "linea",
+      "name": "Linea",
+      "symbol": "ETH",
+      "chain_id": 59144,
+      "decimals": 18,
+      "rpc_env": "RPC_LINEA",
+      "coingecko_id": "ethereum",
+      "enabled": false
+    },
+    {
+      "id": "scroll",
+      "name": "Scroll",
+      "symbol": "ETH",
+      "chain_id": 534352,
+      "decimals": 18,
+      "rpc_env": "RPC_SCROLL",
+      "coingecko_id": "ethereum",
+      "enabled": false
+    },
+    {
+      "id": "mantle",
+      "name": "Mantle",
+      "symbol": "MNT",
+      "chain_id": 5000,
+      "decimals": 18,
+      "rpc_env": "RPC_MANTLE",
+      "coingecko_id": "mantle",
+      "enabled": false
+    },
+    {
+      "id": "gnosis",
+      "name": "Gnosis",
+      "symbol": "xDAI",
+      "chain_id": 100,
+      "decimals": 18,
+      "rpc_env": "RPC_GNOSIS",
+      "coingecko_id": "xdai",
+      "enabled": false
+    },
+    {
+      "id": "cronos",
+      "name": "Cronos",
+      "symbol": "CRO",
+      "chain_id": 25,
+      "decimals": 18,
+      "rpc_env": "RPC_CRONOS",
+      "coingecko_id": "crypto-com-chain",
+      "enabled": false
+    }
+  ]
+}
